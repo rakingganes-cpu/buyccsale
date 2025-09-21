@@ -1,0 +1,14 @@
+[
+  {
+    "id": "featured",
+    "name": "Featured"
+  },
+  {
+    "id": "guides",
+    "name": "Guides"
+  },
+  {
+    "id": "templates",
+    "name": "Templates"
+  }
+]

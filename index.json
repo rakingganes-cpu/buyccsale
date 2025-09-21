@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Demo E-book",
+    "desc": "Step by step guide (legal)",
+    "price": "৳250",
+    "payment": "#",
+    "category": "guides"
+  },
+  {
+    "name": "Template Pack",
+    "desc": "Website & social media templates",
+    "price": "৳500",
+    "payment": "#",
+    "category": "templates"
+  }
+]
